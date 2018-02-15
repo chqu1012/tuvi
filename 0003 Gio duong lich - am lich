@@ -1,0 +1,2 @@
+GioDuong  = 5 Gio
+GioAm = (Aufrunden(GioDuong / 2) + 4) % 12; = 7
